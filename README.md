@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="hihihih" src="https://4.bp.blogspot.com/-4bfB7R9-HQk/WN0E7_pfj5I/AAAAAAAAa-k/otCFwuYwQKMJbN6JPpEjxfYhnR8aQr43QCLcB/s1600/20%2BGifs%2BStar%2BWars%2B3.gif">
+  
 </div>
   <br>
   <div> 
