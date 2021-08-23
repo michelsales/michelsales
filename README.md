@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Michel Sales!
 
-- 🔭 Dev Front-end JR
+- 🔭 Developer Front-end JR
 - 🌱 Atualmente me aprimorando com React JS
  
  <div>
