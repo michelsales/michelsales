@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Michel Sales!
 
 - 🔭 Dev Front-end JR
-- 🌱 Estudo React c/ Typescript
+- 🌱 Atualmente me aprimorando com React JS
  
  <div>
   <a href="https://github.com/michelsales">
