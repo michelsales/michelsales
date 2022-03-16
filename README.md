@@ -2,7 +2,8 @@
 
 - 🔭 Developer Front-end JR
 - 🌱 Atualmente me aprimorando com React JS
- 
+ Possuo projetos demonstrando minhas habilidades com JS e React, Front com Styled components e SASS
+
  <div>
   <a href="https://github.com/michelsales">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelsales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
