@@ -1,4 +1,4 @@
-## Olá! Eu sou o Michel Sales!
+## Olá! Eu sou o Michel Girão!
 
 - 🔭 Developer Front-end JR
 - 🌱 Atualmente me aprimorando com React JS <br>
