@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Michel Sales!
 
 - 🔭 Developer Front-end JR
-- 🌱 Atualmente me aprimorando com React JS
- Possuo projetos demonstrando minhas habilidades com JS e React, Front com Styled components e SASS
+- 🌱 Atualmente me aprimorando com React JS <br>
+ Possuo aqui no github, projetos treinando e demonstrando minhas habilidades com JS e React, Front(CSS) com Styled components e SASS.
 
  <div>
   <a href="https://github.com/michelsales">
