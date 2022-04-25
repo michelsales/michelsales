@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Michel Girão!
 
-- 🔭 Developer Front-end JR
-- 🌱 Atualmente me aprimorando com React JS <br>
+- 🔭 Developer Front-end Pleno <br>
  Possuo aqui no github, projetos treinando e demonstrando minhas habilidades com JS e React, Front(CSS) com Styled components e SASS.
 
  <div>
