@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Michel Girão!
 
-- 🔭 Developer Front-end Pleno <br>
- Possuo aqui no github, projetos treinando e demonstrando minhas habilidades com JS e React, Front(CSS) com Styled components e SASS.
+- Front-end Engineer <br>
+ I have here on my github, training projects showing my skills with JS, ReactJS, CSS with Styled components and SASS(BEM).
 
  <div>
   <a href="https://github.com/michelsales">
