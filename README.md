@@ -1,4 +1,4 @@
-## Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" width="30/> I'am Michel Girão!
+ Hello!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" width="30/> I'am Michel Girão!
 - Front-end Engineer <br>
  I have here on my github, training projects showing my skills with JS, ReactJS, CSS with Styled components and SASS(BEM).
 
