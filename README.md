@@ -1,5 +1,4 @@
-## Olá! Eu sou o Michel Girão!
-
+## Hello! I'am Michel Girão!
 - Front-end Engineer <br>
  I have here on my github, training projects showing my skills with JS, ReactJS, CSS with Styled components and SASS(BEM).
 
