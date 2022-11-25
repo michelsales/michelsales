@@ -1,8 +1,8 @@
- Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" width="30" /> I'am Michel Girão!
+ <div> Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" width="30" /> I'am Michel Girão!
 - Front-end Engineer <br>
  I have here on my github, training projects showing my skills with JS, ReactJS, CSS with Styled components and SASS(BEM).
 
- <div>
+ 
   <a href="https://github.com/michelsales">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelsales&layout=compact&langs_count=7&theme=dracula"/>
 </div>
