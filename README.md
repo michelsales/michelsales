@@ -1,4 +1,4 @@
- <div> Hello! <img src="https://media.tenor.com/tMsO0UzVe5YAAAAj/pikachu-danse.gif" height="30" width="30" /> I'am Michel Girão!
+ <div> Hello! I'am Michel Girão!
 - Mid Front-end Engineer <br>
 
  
