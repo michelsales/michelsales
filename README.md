@@ -1,5 +1,5 @@
  <div> Hello! I'am Michel Girão!
-- Mid Front-end Engineer <br>
+- SR Front-end Engineer <br>
 
  
   <a href="https://github.com/michelsales">
